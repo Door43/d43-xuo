@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xuo:home|Door43 (xuo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xuo|d43-xuo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xuo/archive/master.zip|d43-xuo.zip]]
+
+**Recent Changes**
+{{changes>ns = xuo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xuo|Ethnologue data]]
+
